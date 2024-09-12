@@ -1,0 +1,2 @@
+traffic_light
+-DCATKIN_DEVEL_PREFIX=/home/jay20_04/traffic_light/devel -DCMAKE_INSTALL_PREFIX=/home/jay20_04/traffic_light/install -G Unix Makefiles
